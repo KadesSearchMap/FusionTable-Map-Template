@@ -1,6 +1,6 @@
 # Fusion Table Searchable Map Template
 
-[See the working demo &raquo;](http://KadesSearchMap.github.io/FusionTable-Map-Template/)
+[See the working demo &raquo;](http://kadessearchmap.github.io/FusionTable-Map-Template/)
 
 
 
